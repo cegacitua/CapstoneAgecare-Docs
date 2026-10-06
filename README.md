@@ -38,6 +38,7 @@ Diseño accesible y orientado a voz que mantiene conectado, acompañado y estimu
 - **Franco Barra** - Desarrollo
 - **Claudia Iosue** - Desarrollo
 - **Felipe Varas** - Desarrollo
+- **César Gacitúa** - Fullstack
 
 ---
 
